@@ -1,0 +1,2 @@
+db/index/*.pkl filter=lfs diff=lfs merge=lfs -text
+db/*.parquet filter=lfs diff=lfs merge=lfs -text
